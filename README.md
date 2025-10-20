@@ -1,11 +1,17 @@
 <!-- Header with Animated Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hey+there!+👋;I'm+M.A+Habib+Siam;Game+Developer+🎮;ASP.NET+Learner+💻;Cross+Platform+App+Builder+⚡" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2500&pause=1000&color=00F7FF&center=true&width=800&lines=Hey+there!+%F0%9F%91%8B;I%27m+M.A+Habib+Siam;Game+Developer+%F0%9F%8E%AE;ASP.NET+Learner+%F0%9F%92%BB;Cross+Platform+App+Builder+%E2%9A%A1" 
+    alt="Typing SVG" 
+  />
 </p>
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=M.A%20Habib%20Siam&fontSize=45&fontColor=fff&fontAlignY=35&desc=Game%20Developer%20%7C%20ASP.NET%20Learner%20%7C%20Flutter%20Enthusiast&descAlignY=55&animation=fadeIn" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=M.A%20Habib%20Siam&fontSize=45&fontColor=fff&fontAlignY=35&desc=Game%20Developer%20%7C%20ASP.NET%20Learner%20%7C%20Flutter%20Enthusiast&descAlignY=55&animation=fadeIn" 
+    alt="Banner"
+  />
 </p>
 
 <h3 align="center">⚡ Crafting fun, functional, and fast experiences ⚡</h3>
@@ -27,8 +33,8 @@ My mission: **fun to play, smooth to use, and solid to deploy.**
 ![Itch.io](https://img.shields.io/badge/Itch.io-%23FF0B34.svg?style=for-the-badge&logo=itch.io&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 
-**Languages & frameworks:** GDScript, C#, C++, Dart  
-**Other tools:** OpenGL, PyQt, Python (for tooling)
+**Languages & Frameworks:** GDScript, C#, C++, Dart  
+**Other Tools:** OpenGL, PyQt, Python (for tooling)
 
 ---
 
@@ -56,13 +62,16 @@ My mission: **fun to play, smooth to use, and solid to deploy.**
 
 ## 📊 Profile Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=xASHx26&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=xASHx26&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <br>
-  <img src="https://visitcount.itsvg.in/api?id=xASHx26&icon=5&color=6" />
+  <img src="https://visitcount.itsvg.in/api?id=xASHx26&icon=5&color=6" alt="Profile Views" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" 
+    alt="Footer Wave"
+  />
 </p>
