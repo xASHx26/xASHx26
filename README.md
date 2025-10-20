@@ -22,8 +22,14 @@ My goal? Delivering projects that are **fun to play, smooth to run, and delightf
 ## 💻 Tech Stack
 
 ### 🎮 Game & App Dev  
-![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine&logoColor=478CBF)  
-![Itch.io](https://img.shields.io/badge/Itch.io-%23FF0B34.svg?style=for-the-badge&logo=itch.io&logoColor=white)  
+### 🎮 Game & App Development
+![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine&logoColor=478CBF)
+![Itch.io](https://img.shields.io/badge/Itch.io-%23FF0B34.svg?style=for-the-badge&logo=itch.io&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+
+**Languages & frameworks:** GDScript, C#, C++, Dart (via Flutter)  
+**Other platforms/tools:** Python (for tooling/automation), OpenGL, PyQt
+
 **Languages & frameworks:** GDScript, C#, C++  
 **Others used in games/demo projects:** Python (for tooling/automation), OpenGL, PyQt
 
