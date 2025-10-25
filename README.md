@@ -63,8 +63,6 @@ My mission: **fun to play, smooth to use, and solid to deploy.**
 ## 📊 Profile Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=xASHx26&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <br>
-  <img src="https://visitcount.itsvg.in/api?id=xASHx26&icon=5&color=6" alt="Profile Views" />
 </p>
 
 ---
